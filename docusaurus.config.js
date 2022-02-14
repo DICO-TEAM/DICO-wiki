@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DICO wiki',
   tagline: 'ICO platform for decentralized auto organization',
-  url: 'https://dico.io/',
+  url: 'https://wiki.dico.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
