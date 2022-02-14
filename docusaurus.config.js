@@ -9,7 +9,7 @@ const config = {
   title: 'DICO wiki',
   tagline: 'ICO platform for decentralized auto organization',
   url: 'https://wiki.dico.io/',
-  baseUrl: '/DICO-wiki/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
