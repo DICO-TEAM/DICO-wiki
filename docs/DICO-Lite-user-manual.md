@@ -165,7 +165,7 @@ Me-->KYC-->Request Judgement, enter kyc_fields, IAS_index, message parameter val
 
 
 
-(2) Me-->KYC-->Certifition list, Swordholder审核Kyc通过，进入kyc用户的kyc界面，信息如图:
+(2)  Me-->KYC-->Certification list, Swordholder the Kyc is approved and the information is as shown:
 
 <img src="https://cdn.jsdelivr.net/gh/DICO-TEAM/resources@master/dico_img/app/Me/Me-home.jpg" alt="Me-home" width="200" /><img src="https://cdn.jsdelivr.net/gh/DICO-TEAM/resources@master/dico_img/app/Kyc/supervisorProvideJudgement-Success.jpg"  width="200" />
 
